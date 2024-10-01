@@ -1,5 +1,7 @@
 # Brain MRI Metastasis Segmentation
 
+![image](https://github.com/user-attachments/assets/c0079d81-1782-4d22-95bc-dcf71e69e450)
+
 ## Objective
 This project implements and compares two architectures, **Nested U-Net (U-Net++)** and **Attention U-Net**, for brain MRI metastasis segmentation. The project involves preprocessing MRI images, training and evaluating both models using the DICE score, and developing a web application using **FAST API** and **Streamlit** to showcase the segmentation results.
 
